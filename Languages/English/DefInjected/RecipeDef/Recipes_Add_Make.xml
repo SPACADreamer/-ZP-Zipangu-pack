@@ -190,17 +190,17 @@
   <Make_Kunai_3Ranged.description>Make ThrowingKunai(three-times).</Make_Kunai_3Ranged.description>
   <Make_Kunai_3Ranged.jobString>Making ThrowingKunai(three-times).</Make_Kunai_3Ranged.jobString>
 
-  <Make_Bow_JPstyleGreat.label>make JapaneseLongbow</Make_Bow_JPstyleGreat.label>
-  <Make_Bow_JPstyleGreat.description>Make JapaneseLongbow.</Make_Bow_JPstyleGreat.description>
-  <Make_Bow_JPstyleGreat.jobString>Making JapaneseLongbow.</Make_Bow_JPstyleGreat.jobString>
+  <Make_Bow_JPstyleGreat.label>make Higoyumi</Make_Bow_JPstyleGreat.label>
+  <Make_Bow_JPstyleGreat.description>Make Higoyumi.</Make_Bow_JPstyleGreat.description>
+  <Make_Bow_JPstyleGreat.jobString>Making Higoyumi</Make_Bow_JPstyleGreat.jobString>
 
-  <Make_Bow_JPstyleGreat_Fire.label>make JapaneseLongbow(fire)</Make_Bow_JPstyleGreat_Fire.label>
-  <Make_Bow_JPstyleGreat_Fire.description>Make JapaneseLongbow(fire).</Make_Bow_JPstyleGreat_Fire.description>
-  <Make_Bow_JPstyleGreat_Fire.jobString>Making JapaneseLongbow(fire).</Make_Bow_JPstyleGreat_Fire.jobString>
+  <Make_Bow_JPstyleGreat_Fire.label>make Higoyumi(fire)</Make_Bow_JPstyleGreat_Fire.label>
+  <Make_Bow_JPstyleGreat_Fire.description>Make Higoyumi(fire).</Make_Bow_JPstyleGreat_Fire.description>
+  <Make_Bow_JPstyleGreat_Fire.jobString>Making Higoyumi(fire).</Make_Bow_JPstyleGreat_Fire.jobString>
 
-  <Make_Bow_JPstyleGreat_Poison.label>make SnakeLongbow(poison)</Make_Bow_JPstyleGreat_Poison.label>
-  <Make_Bow_JPstyleGreat_Poison.description>Make SnakeLongbow(poison).</Make_Bow_JPstyleGreat_Poison.description>
-  <Make_Bow_JPstyleGreat_Poison.jobString>Making SnakeLongbow(poison).</Make_Bow_JPstyleGreat_Poison.jobString>
+  <Make_Bow_JPstyleGreat_Poison.label>make Higoyumi(poison)</Make_Bow_JPstyleGreat_Poison.label>
+  <Make_Bow_JPstyleGreat_Poison.description>Make Higoyumi(poison).</Make_Bow_JPstyleGreat_Poison.description>
+  <Make_Bow_JPstyleGreat_Poison.jobString>Making Higoyumi(poison).</Make_Bow_JPstyleGreat_Poison.jobString>
 
   <Make_Gun_Tanegasima.label>make TanegasimaGun</Make_Gun_Tanegasima.label>
   <Make_Gun_Tanegasima.description>Make TanegasimaGun.</Make_Gun_Tanegasima.description>
