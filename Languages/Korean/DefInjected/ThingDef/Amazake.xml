@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPAmazake.label>Amazake</ZPAmazake.label>
-  <ZPAmazake.description>this is traditional sweet beverage in Japan and it is festival at the New Year and festival.\nIt looks white and cloudy and is called Amagayu.\nIt is rich in nutrition, it is cold in the summer and it relieve the summer heat. It is also a health drink that warms in winter and is active as a cold prevention.</ZPAmazake.description>
+  <ZPAmazake.label>아마자케</ZPAmazake.label>
+  <ZPAmazake.description>쌀과 누룩으로 빚은 달고 맛있는 술입니다. \nIt 술지게미 혹은 누룩을 사용하는데, 술지게미를 사용하는 경우 취할 수 있지만, 누룩을 넣었을 경우에는 음료수로서도 마시기도 합니다. \nIt 축제날 같은 때에 누룩을 사용한 아마자케를 마시며, 여름에는 시원하게, 겨울에는 따뜻하게 데워서 마십니다.</ZPAmazake.description>
   <ZPAmazake.ingestible.ingestCommandString>Drink {0}</ZPAmazake.ingestible.ingestCommandString>
   <ZPAmazake.ingestible.ingestReportString>Drinking {0}.</ZPAmazake.ingestible.ingestReportString>
 
