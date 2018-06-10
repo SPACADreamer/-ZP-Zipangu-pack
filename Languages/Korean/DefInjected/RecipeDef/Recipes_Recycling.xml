@@ -3,20 +3,20 @@
 
   <!-- 作業場 -->
 
-  <RecycleWeAp.label>Recycle weapons and apparel</RecycleWeAp.label>
-  <RecycleWeAp.description>Recycle to make effective use of limited resources.</RecycleWeAp.description>
+  <RecycleWeAp.label>무기와 장비 재활용</RecycleWeAp.label>
+  <RecycleWeAp.description>한정된 자원을 유효하게 활용하기 위해 재활용을 합니다.</RecycleWeAp.description>
   <RecycleWeAp.jobString>Recycling</RecycleWeAp.jobString>
 
 
   <!-- 鍛冶場 -->
 
-  <ZPRecycleApparel.label>Recycle apparel.</ZPRecycleApparel.label>
-  <ZPRecycleApparel.description>Recycle to make effective use of limited resources.</ZPRecycleApparel.description>
-  <ZPRecycleApparel.jobString>Recycling</ZPRecycleApparel.jobString>
+  <ZPRecycleApparel.label>장비 </ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>한정된 자원을 유효하게 활용하기 위해 재활용을 합니다.</ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>재활용 중</ZPRecycleApparel.jobString>
 
-  <ZPRecycleWeapon.label>Recycle weapon.</ZPRecycleWeapon.label>
-  <ZPRecycleWeapon.description>Recycle to make effective use of limited resources.</ZPRecycleWeapon.description>
-  <ZPRecycleWeapon.jobString>Recycling</ZPRecycleWeapon.jobString>
+  <ZPRecycleWeapon.label>무기 재활용</ZPRecycleWeapon.label>
+  <ZPRecycleWeapon.description>한정된 자원을 유효하게 활용하기 위해 재활용을 합니다.</ZPRecycleWeapon.description>
+  <ZPRecycleWeapon.jobString>재활용 중</ZPRecycleWeapon.jobString>
 
 
 </LanguageData>
